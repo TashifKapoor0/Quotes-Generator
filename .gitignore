@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments created by Poetry or manually
+.env/
+.venv/
+
+# VS Code workspace settings
+.vscode/
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Python test and coverage files
+.cache/
+.coverage
+htmlcov/
+
+# SQLite DBs or temp data
+*.db
+instance/
+
+# Logs
+*.log
